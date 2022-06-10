@@ -1,0 +1,63 @@
+#First_page {
+    background: linear-gradient(to right, rgb(10, 5, 90) 0%, rgb(10, 5, 90) 50%, rgb(255, 255, 255) 50%, rgb(255, 255, 255) 100%);
+    text-align: center;
+     }
+
+     #Span_L {
+
+float: left;
+text-align: center;
+
+     }
+
+     #Span_R {
+
+
+text-align: center;
+
+     }
+
+     #logo {
+
+max-width: 150px;
+max-height: 150px;
+margin-top: 170px;
+margin-right: 50px;
+
+
+           }
+
+     #Text {
+        color: aliceblue;
+        margin-right: 50px;
+       
+        
+           }
+
+
+
+#User {
+
+
+width: 400px;
+margin-top: 30px;
+margin-left: 100px;
+
+}
+
+
+
+    #Start {
+
+margin-top: 200px;
+
+    }
+
+    #But_Log {
+
+ margin-top: 50px;
+
+    }
+    
+
+    

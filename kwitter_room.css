@@ -1,0 +1,63 @@
+body {
+
+background-color: #2591d9;
+
+}
+
+
+#log_out {
+
+    float: right;
+    margin-right: 150px;
+    margin-top: 2px;
+    font-size: 20px;
+
+}
+
+#sec_logo {
+
+width: 150px;
+height: 150px;
+margin-left: 200px;
+margin-top: 40px;
+
+}
+
+#user_name {
+
+color: aliceblue;
+
+}
+
+#room_text {
+
+font-weight: 900;
+margin-right: 50px;
+margin-top: 30px;
+
+}
+
+#room_name {
+
+width: 1100px;
+
+}
+
+#room_btn {
+
+width: 100px;
+margin-top: 40px;
+margin-right: 50px;
+font-size: 15px;
+text-align: center;
+
+}
+
+#text {
+
+color: aliceblue;
+margin-right: 30px;
+margin-top: 30px;
+font-weight: 500;
+
+}
